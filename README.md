@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
