@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [2235-add-two-integers](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
