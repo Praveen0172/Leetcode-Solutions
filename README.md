@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
 |  |
 | ------- |
@@ -82,9 +84,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2351-first-letter-to-appear-twice](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
