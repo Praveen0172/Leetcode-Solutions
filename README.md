@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/2235-add-two-integers) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
