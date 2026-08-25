@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/2235-add-two-integers) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0739-daily-temperatures](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
