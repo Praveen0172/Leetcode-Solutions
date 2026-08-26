@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
@@ -66,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2351-first-letter-to-appear-twice](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
 |  |
@@ -106,4 +109,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0561-array-partition) |
+| [1833-maximum-ice-cream-bars](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
