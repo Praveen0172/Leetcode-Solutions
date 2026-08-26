@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0561-array-partition](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0739-daily-temperatures](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0896-monotonic-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 ## Matrix
