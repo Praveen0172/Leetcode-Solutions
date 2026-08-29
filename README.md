@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0739-daily-temperatures](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0896-monotonic-array) |
+| [0941-valid-mountain-array](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 | [1051-height-checker](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
