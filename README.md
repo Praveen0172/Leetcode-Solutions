@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/1051-height-checker) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Praveen0172/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
